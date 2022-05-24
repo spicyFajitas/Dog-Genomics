@@ -1,0 +1,13 @@
+Dog Genomics
+Accomplished:
+1. Genotype Counts (inbreeding)- homozygous vs heterozygous across whole file
+2. Genotype Counts per chromosome based on input- input chromosome number and get count
+3.
+(3a) Genotype Counts per chromosome total- per chromosome homozygous vs heterozygous
+(3b) input each indivual genotype TAG
+(3c) input file with predifined genotype list
+
+To Accomplish in the Future
+4. Codon-Bias-genome: count how many A's, C's, G's, T's in whole genome
+5. Codon-Bias-chromosome count how many A's, C's, G's, T's in each chromosome
+(6.) Report how many A=A's, C=C's, G=G's, T=T's for entire genome
